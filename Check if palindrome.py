@@ -3,7 +3,7 @@
     Checks if the string entered by the user is a palindrome.
 """
 
-word = input()
+word = input("Word: ")
 
 word2 = word[::-1]
 if word == word2:
