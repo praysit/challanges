@@ -1,3 +1,8 @@
+"""10. Check if palindrome
+
+    Checks if the string entered by the user is a palindrome.
+"""
+
 word = input()
 
 word2 = word[::-1]
